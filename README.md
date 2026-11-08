@@ -252,7 +252,7 @@ I do the setup end to end — you send a CSV, you get a dashboard and a daily re
 | Custom small automation | script, scraper or report, per day | 300–800 CNY / 45–120 USDC per day |
 
 - Delivery: 3–5 days. Runs on your machine; nothing is uploaded.
-- Payment: CNY or USDT/BTC. 50% upfront, 50% on acceptance.
+- Payment: CNY, USDC on Solana, or BTC. 50% upfront, 50% on acceptance. If paying USDC, the network **must be Solana** — a wrong network cannot be recovered.
 - Not included: anything behind a login (no scraping with your credentials), no mobile app, no revenue promises.
 
 **Contact: open an issue on this repo** with the word `setup` and what you export. I reply within a day.
