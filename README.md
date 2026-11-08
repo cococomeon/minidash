@@ -1,5 +1,8 @@
 # minidash · 每日经营日报
 
+**[Try it in your browser (no install, nothing uploaded) ->](https://cococomeon.github.io/minidash-web/)**
+
+
 把导出的三张 CSV（订单 / 账号 / 项目）变成一份当日经营日报：一份给人读的 Markdown，
 一张 1080×1440 的深色卡片，可以直接发群、发朋友圈、贴进汇报。
 
