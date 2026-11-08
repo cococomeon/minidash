@@ -9,6 +9,8 @@
 
 ![daily report card](assets/report-card.png)
 
+**[See a real before/after →](docs/before-after.md)** — one CSV in, a decision out.
+
 ## 你会得到什么
 
 1. 一份 `<日期>.md`：一句话结论 + 核心指标 + 异常提醒（每条都写清楚「为什么」）+ 渠道/每日/项目/账号明细。
